@@ -1,0 +1,335 @@
+============[Date]============
+[ 2024-06-17 11:08:38  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21130 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.update_id= 167355213
+ref.message.message_id= 2
+ref.message.from.id= 2137064531
+ref.message.from.is_bot= false
+ref.message.from.first_name= amirhossien
+ref.message.from.username= Amirhoseniliw
+ref.message.from.language_code= en
+ref.message.chat.id= 2137064531
+ref.message.chat.first_name= amirhossien
+ref.message.chat.username= Amirhoseniliw
+ref.message.chat.type= private
+ref.message.date= 1718614972
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:08:59  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21049 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.update_id= 167355214
+ref.message.message_id= 3
+ref.message.from.id= 2137064531
+ref.message.from.is_bot= false
+ref.message.from.first_name= amirhossien
+ref.message.from.username= Amirhoseniliw
+ref.message.from.language_code= en
+ref.message.chat.id= 2137064531
+ref.message.chat.first_name= amirhossien
+ref.message.chat.username= Amirhoseniliw
+ref.message.chat.type= private
+ref.message.date= 1718615040
+ref.message.text= rfgrfgre
+
+
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:09:21  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21038 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.update_id= 167355215
+ref.message.message_id= 4
+ref.message.from.id= 2137064531
+ref.message.from.is_bot= false
+ref.message.from.first_name= amirhossien
+ref.message.from.username= Amirhoseniliw
+ref.message.from.language_code= en
+ref.message.chat.id= 2137064531
+ref.message.chat.first_name= amirhossien
+ref.message.chat.username= Amirhoseniliw
+ref.message.chat.type= private
+ref.message.date= 1718615133
+ref.message.text= grdgr
+
+
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:09:42  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21040 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.update_id= 167355216
+ref.message.message_id= 5
+ref.message.from.id= 2137064531
+ref.message.from.is_bot= false
+ref.message.from.first_name= amirhossien
+ref.message.from.username= Amirhoseniliw
+ref.message.from.language_code= en
+ref.message.chat.id= 2137064531
+ref.message.chat.first_name= amirhossien
+ref.message.chat.username= Amirhoseniliw
+ref.message.chat.type= private
+ref.message.date= 1718615168
+ref.message.text= dfgvfdg
+
+
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:10:04  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21058 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.update_id= 167355217
+ref.message.message_id= 6
+ref.message.from.id= 2137064531
+ref.message.from.is_bot= false
+ref.message.from.first_name= amirhossien
+ref.message.from.username= Amirhoseniliw
+ref.message.from.language_code= en
+ref.message.chat.id= 2137064531
+ref.message.chat.first_name= amirhossien
+ref.message.chat.username= Amirhoseniliw
+ref.message.chat.type= private
+ref.message.date= 1718615296
+ref.message.text= dd
+
+
+[ref]
+ref.text= Test
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:10:25  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21045 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.update_id= 167355218
+ref.message.message_id= 7
+ref.message.from.id= 2137064531
+ref.message.from.is_bot= false
+ref.message.from.first_name= amirhossien
+ref.message.from.username= Amirhoseniliw
+ref.message.from.language_code= en
+ref.message.chat.id= 2137064531
+ref.message.chat.first_name= amirhossien
+ref.message.chat.username= Amirhoseniliw
+ref.message.chat.type= private
+ref.message.date= 1718615364
+ref.message.text= ededed
+
+
+[ref]
+ref.text= hi
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:11:19  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21026 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.update_id= 167355219
+ref.message.message_id= 8
+ref.message.from.id= 2137064531
+ref.message.from.is_bot= false
+ref.message.from.first_name= amirhossien
+ref.message.from.username= Amirhoseniliw
+ref.message.from.language_code= en
+ref.message.chat.id= 2137064531
+ref.message.chat.first_name= amirhossien
+ref.message.chat.username= Amirhoseniliw
+ref.message.chat.type= private
+ref.message.date= 1718615450
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= hi
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:13:05  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21033 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= hi
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:13:23  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21052 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= hi
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:14:52  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21037 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= hi
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\Telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\Telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\Telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
+============[Date]============
+[ 2024-06-17 11:14:56  Europe/Berlin ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 21025 ms: Couldn't connect to server
+=========[Sent Data]==========
+[ref]
+ref.update_id= 167355220
+ref.message.message_id= 9
+ref.message.from.id= 2137064531
+ref.message.from.is_bot= false
+ref.message.from.first_name= amirhossien
+ref.message.from.username= Amirhoseniliw
+ref.message.from.language_code= en
+ref.message.chat.id= 2137064531
+ref.message.chat.first_name= amirhossien
+ref.message.chat.username= Amirhoseniliw
+ref.message.chat.type= private
+ref.message.date= 1718615667
+ref.message.text= s
+
+
+[ref]
+ref.text= hi
+
+
+============[Trace]===========
+#0 C:\xampp\htdocs\telgram_bot\Telegram.php(1862): TelegramErrorLogger::log(Array, Array)
+#1 C:\xampp\htdocs\telgram_bot\Telegram.php(124): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 C:\xampp\htdocs\telgram_bot\Telegram.php(182): Telegram->endpoint('sendMessage', Array)
+#3 C:\xampp\htdocs\telgram_bot\index.php(6): Telegram->sendMessage(Array)
+#4 {main}
+
